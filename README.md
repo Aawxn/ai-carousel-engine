@@ -1,7 +1,7 @@
 # Just Sortd — Creative AI Carousels (PRD 4)
 
 > **Goal:** Turns approved text takes into on-brand 5-slide visual carousels in under 15 minutes of human time, featuring designer-owned templates, pre-render copy-fit validation, and surgical 1-slide re-rendering (`dirty_slides`).  
-> 📄 **Core Documents:** [1-Page Build Plan](BUILD_PLAN.md) | [Ops Runbook](RUNBOOK.md) | [Loom Script](LOOM_SCRIPT_PRD4_AI_CAROUSELS.md)
+> 📄 **Core Documents:** [1-Page Build Plan](BUILD_PLAN.md) | [Ops Runbook](RUNBOOK.md)
 
 ---
 
