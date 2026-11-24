@@ -1,0 +1,44 @@
+{
+  "brand_name": "Just Sortd",
+  "theme": "Minimal D2C Editorial",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350,
+    "aspect_ratio": "4:5"
+  },
+  "colors": {
+    "background_primary": "#0F1115",
+    "background_card": "#181B22",
+    "text_primary": "#FFFFFF",
+    "text_secondary": "#9CA3AF",
+    "accent_brand": "#F59E0B",
+    "accent_highlight": "#10B981",
+    "border_subtle": "#282E3A"
+  },
+  "typography": {
+    "font_family_header": "'Syne', -apple-system, sans-serif",
+    "font_family_body": "'Inter', -apple-system, sans-serif",
+    "title_size": "54px",
+    "title_line_height": "1.15",
+    "body_size": "28px",
+    "body_line_height": "1.45"
+  },
+  "layout_slots": {
+    "hook_slide": {
+      "slot_name": "HOOK_CARD",
+      "max_title_chars": 80,
+      "max_subtitle_chars": 120
+    },
+    "body_slide": {
+      "slot_name": "POINT_BREAKDOWN",
+      "max_headline_chars": 60,
+      "max_body_chars": 180,
+      "max_stat_chars": 30
+    },
+    "cta_slide": {
+      "slot_name": "CLOSING_ACTION",
+      "max_title_chars": 70,
+      "max_action_chars": 100
+    }
+  }
+}

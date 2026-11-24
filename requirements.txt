@@ -1,0 +1,4 @@
+# Core dependencies for Just Sortd PRD 4: Creative AI Carousels
+pydantic>=2.5.0
+pytest>=8.0.0
+jinja2>=3.1.0

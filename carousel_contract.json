@@ -1,0 +1,60 @@
+{
+  "carousel_id": "prd4_carousel_20261123_logistics",
+  "topic": "5 Rules for Surviving Peak Season D2C Logistics",
+  "voice": "brand",
+  "theme": "Minimal D2C Editorial",
+  "total_slides": 5,
+  "dirty_slides": [],
+  "slides": [
+    {
+      "slide_index": 1,
+      "slot_type": "HOOK_CARD",
+      "headline": "Most D2C brands don't fail marketing in Q4—they fail logistics.",
+      "body_copy": "Surat fabric delays, packaging shortages in Bhiwandi, and courier NDRs can wipe out your Diwali margin in 72 hours.",
+      "stat_callout": "Q4 SURVIVAL GUIDE",
+      "swipe_cta": "Swipe for the 5 Rules ➔",
+      "rendered_png_url": "https://cdn.justsortd.com/carousels/2026/slide_1.png"
+    },
+    {
+      "slide_index": 2,
+      "slot_type": "POINT_BREAKDOWN",
+      "headline": "Rule #1: Pre-book express air courier allocations early",
+      "body_copy": "Surface cargo gets jammed 10 days before Diwali. Secure guaranteed 48-hour air freight lanes for high-velocity SKUs.",
+      "stat_callout": "AIR ALLOCATION",
+      "swipe_cta": "Rule #2 ➔",
+      "rendered_png_url": "https://cdn.justsortd.com/carousels/2026/slide_2.png"
+    },
+    {
+      "slide_index": 3,
+      "slot_type": "POINT_BREAKDOWN",
+      "headline": "Rule #2: Keep 3-day buffer on fabric approvals",
+      "body_copy": "If dyeing delays occur in Surat, an unbuffered downstream pattern mockup ruins your entire lookbook photoshoot schedule.",
+      "stat_callout": "3-DAY BUFFER",
+      "swipe_cta": "Rule #3 ➔",
+      "rendered_png_url": "https://cdn.justsortd.com/carousels/2026/slide_3.png"
+    },
+    {
+      "slide_index": 4,
+      "slot_type": "POINT_BREAKDOWN",
+      "headline": "Rule #3: Daily automated slip tracking from standups",
+      "body_copy": "Never let vendor delays live in someone's head. Run automated DAG slip cascades to catch bottlenecks before deadlines break.",
+      "stat_callout": "AUTOMATED SLIP TRACKING",
+      "swipe_cta": "Closing Rule ➔",
+      "rendered_png_url": "https://cdn.justsortd.com/carousels/2026/slide_4.png"
+    },
+    {
+      "slide_index": 5,
+      "slot_type": "CLOSING_ACTION",
+      "headline": "Execution is the only marketing that matters in Q4.",
+      "body_copy": "Share with your D2C operations team. Follow @justsortd for daily playbooks.",
+      "stat_callout": "JUST SORTD OPS",
+      "swipe_cta": "Save this post 🔖",
+      "rendered_png_url": "https://cdn.justsortd.com/carousels/2026/slide_5.png"
+    }
+  ],
+  "prd2_handoff": {
+    "target_channels": ["linkedin", "instagram"],
+    "publish_status": "Pending Approval",
+    "primary_caption": "Most D2C brands don't fail marketing in Q4—they fail logistics. Here are the 5 operational rules we use at Just Sortd to survive peak season. Swipe through and save 📦⚡"
+  }
+}
